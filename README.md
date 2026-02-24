@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I'm Faith,
+
+🎓 Background: Undergraduate Software Engineering
+
+💻 Interested in:
+- Web Development
+- Backend Development
+- Software Engineering
+
+🚀 Currently Building:
+- Personal Portfolio Website
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git
+
+## 📫 Contact
+- Email:fyaannjeri@gmail.com
+  
 
 <!--
 **FaithRii/FaithRii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
