@@ -7,8 +7,9 @@
 - Backend Development
 - Software Engineering
 
-🚀 Currently Building:
+🚀 Projects:
 - Personal Portfolio Website
+- simple task management web app
 
 ## 🛠 Tech Stack
 - HTML
