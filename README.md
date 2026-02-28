@@ -1,24 +1,24 @@
 # Hi, I'm Faith,
 
-🎓 Background: Undergraduate Software Engineering
+Background: Undergraduate Software Engineering
 
-💻 Interested in:
+ Interested in:
 - Web Development
 - Backend Development
 - Software Engineering
 
-🚀 Projects:
+Projects:
 - Personal Portfolio Website
-- simple task management web app
+- Nova task management web app
 
-## 🛠 Tech Stack
+Tech Stack
 - HTML
 - CSS
 - JavaScript
 - Python
 - Git
 
-## 📫 Contact
+Contact
 - Email:fyaannjeri@gmail.com
   
 
