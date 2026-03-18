@@ -10,6 +10,7 @@ Background: Undergraduate Software Engineering
 Projects:
 - Personal Portfolio Website
 - Nova task management web app
+- currently building an e-commerce website
 
 Tech Stack
 - HTML
